@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\romag_000\Downloads\paradigms-2016-master\javascr
+ ipt\test\test
+Main-Class: test.ExpressionTest
+
